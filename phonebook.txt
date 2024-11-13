@@ -1,0 +1,1 @@
+{'shazz': {'name': 'shazz', 'address': 'pkd', 'phone number': [567], 'mail': ['dfghj']}}
